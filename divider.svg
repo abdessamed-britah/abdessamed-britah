@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#39d353" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39d353" stop-opacity="0.9"/>
+      <stop offset="1"   stop-color="#39d353" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+  <style>
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 0%,100%{opacity:.5} 50%{opacity:1} }
+    #star { transform-box: fill-box; transform-origin: center; animation: spin 7s linear infinite; }
+    #glowline { animation: pulse 3s ease-in-out infinite; }
+  </style>
+  <line id="glowline" x1="60" y1="22" x2="840" y2="22" stroke="url(#ln)" stroke-width="2" filter="url(#g)"/>
+  <line x1="60" y1="22" x2="840" y2="22" stroke="url(#ln)" stroke-width="1.4"/>
+  <g filter="url(#g)"><path d="M450.00,9.00 L453.18,18.82 L463.00,22.00 L453.18,25.18 L450.00,35.00 L446.82,25.18 L437.00,22.00 L446.82,18.82 Z" fill="#39d353" opacity="0.55"/></g>
+  <path id="star" d="M450.00,9.00 L453.18,18.82 L463.00,22.00 L453.18,25.18 L450.00,35.00 L446.82,25.18 L437.00,22.00 L446.82,18.82 Z" fill="#39d353"/>
+  <circle cx="450" cy="22" r="2.2" fill="#0d1117"/>
+</svg>
