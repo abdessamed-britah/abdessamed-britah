@@ -83,17 +83,16 @@ Same discipline in the ring and in the repo: guard up, keep good form, outwork y
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-> Add the real repo links where you see `#` once the repos are public.
 
-**🛡️ [Agent-Runner](#) — LLM-Agent Safety Benchmark (FR/AR)**
+**🛡️ [Agent-Runner]() — LLM-Agent Safety Benchmark (FR/AR)**
 Reproducible protocol measuring cost, quality, and safety across agent configs (model, RAG, guardrail validation before sensitive actions). 40-task benchmark · 320 multi-provider runs · 80 automated tests.
 `Python` · `FastAPI` · `PostgreSQL/pgvector` · `ReAct agents`
 
-**🖼️ [DLL-GAN](#) — Image Restoration, Reimplemented from Scratch**
+**🖼️ [DLL-GAN](https://github.com/abdessamed-britah/new-gll-gan) — Image Restoration, Reimplemented from Scratch**
 Rebuilt an unreleased published GAN in PyTorch, then fixed two flaws in the original method (an exploitable unbounded degradation loss + checkerboard artifacts via resize-convolution). Full DIV2K training &amp; PSNR/SSIM pipeline.
 `PyTorch` · `DIV2K` · `Public documented repo`
 
-**📈 [Oil Price Prediction](#) — Geopolitical Signals + Big Data**
+**📈 [Oil Price Prediction](https://github.com/abdessamed-britah/oil-geopolitics-bigdata) — Geopolitical Signals + Big Data**
 Real-time Spark/Hadoop pipeline modeling geopolitical events against oil-price movements.
 
 <br/>
