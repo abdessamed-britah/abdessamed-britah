@@ -81,7 +81,7 @@ Same discipline in the ring and in the repo: guard up, keep good form, outwork y
 <br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 > Add the real repo links where you see `#` once the repos are public.
 
@@ -121,7 +121,7 @@ Real-time Spark/Hadoop pipeline modeling geopolitical events against oil-price m
 </div>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 🥊 Contribution Activity
+##  Contribution Activity
 
 <!-- Pac-Man eats your REAL contribution squares while ghosts chase him.
      Self-updates daily via .github/workflows/pacman.yml.
@@ -144,13 +144,7 @@ Real-time Spark/Hadoop pipeline modeling geopolitical events against oil-price m
 <br/>
 
 <!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdessamed-britah&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</div>
-
-<br/>
 
 <div align="center">
   <i>Every model looks robust until it meets an adversary. 🥊 Guard up.</i>
