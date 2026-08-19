@@ -42,7 +42,7 @@ Same discipline in the ring and in the repo: guard up, keep good form, outwork y
 -->
 
 <!-- ===================== SOCIAL BADGES ===================== -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessamed-britah-1b2270334/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdessamed-britah)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdessamed-britah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdessamed.britah@g.enp.edu.dz)
 ![Location](https://img.shields.io/badge/Algiers,%20Algeria-39d353?style=for-the-badge&logo=googlemaps&logoColor=black)
@@ -83,16 +83,17 @@ Same discipline in the ring and in the repo: guard up, keep good form, outwork y
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
+> Add the real repo links where you see `#` once the repos are public.
 
-**🛡️ [Agent-Runner]() — LLM-Agent Safety Benchmark (FR/AR)**
+**🛡️ [Agent-Runner](#) — LLM-Agent Safety Benchmark (FR/AR)**
 Reproducible protocol measuring cost, quality, and safety across agent configs (model, RAG, guardrail validation before sensitive actions). 40-task benchmark · 320 multi-provider runs · 80 automated tests.
 `Python` · `FastAPI` · `PostgreSQL/pgvector` · `ReAct agents`
 
-**🖼️ [DLL-GAN](https://github.com/abdessamed-britah/new-gll-gan) — Image Restoration, Reimplemented from Scratch**
+**🖼️ [DLL-GAN](#) — Image Restoration, Reimplemented from Scratch**
 Rebuilt an unreleased published GAN in PyTorch, then fixed two flaws in the original method (an exploitable unbounded degradation loss + checkerboard artifacts via resize-convolution). Full DIV2K training &amp; PSNR/SSIM pipeline.
 `PyTorch` · `DIV2K` · `Public documented repo`
 
-**📈 [Oil Price Prediction](https://github.com/abdessamed-britah/oil-geopolitics-bigdata) — Geopolitical Signals + Big Data**
+**📈 [Oil Price Prediction](#) — Geopolitical Signals + Big Data**
 Real-time Spark/Hadoop pipeline modeling geopolitical events against oil-price movements.
 
 <br/>
@@ -112,6 +113,12 @@ Real-time Spark/Hadoop pipeline modeling geopolitical events against oil-price m
 </div>
 
 <br/>
+
+<!-- Crow interstitial (ties into the Itachi theme). Keep giphy.gif in this repo's root
+     so it can't break like a hotlink. -->
+<div align="center">
+  <img width="500" src="giphy.gif" alt="crow" />
+</div>
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ## 🥊 Contribution Activity
