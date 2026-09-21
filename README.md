@@ -14,7 +14,7 @@
 <!-- Custom banner (name baked in). Keep banner.svg in this repo's root.
      Eyes glow and embers drift on their own — no setup needed. -->
 <div align="center">
-  <img width="100%" src="banner.svg" alt="Abdessamed Britah — AI & ML Engineer, AI Security & LLM Safety" />
+  <img width="100%" src="bannerr.svg" alt="Abdessamed Britah — AI & ML Engineer, AI Security & LLM Safety" />
 </div>
 
 <!-- Itachi GIF under the name. Keep anime.gif in this repo's root.
