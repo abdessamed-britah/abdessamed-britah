@@ -85,7 +85,7 @@ Same discipline in the ring and in the repo: guard up, keep good form, outwork y
 
 > Add the real repo links where you see `#` once the repos are public.
 
-**🛡️ [Agent-Runner](#) — LLM-Agent Safety Benchmark (FR/AR)**
+**🛡️ [SAHL](#) — LLM-Agent Safety Benchmark (FR/AR)**
 Reproducible protocol measuring cost, quality, and safety across agent configs (model, RAG, guardrail validation before sensitive actions). 40-task benchmark · 320 multi-provider runs · 80 automated tests.
 `Python` · `FastAPI` · `PostgreSQL/pgvector` · `ReAct agents`
 
